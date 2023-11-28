@@ -58,7 +58,7 @@ export default {
 
 <style scoped>
 .building{
-    background-color:#191919 ;
+    background-color:#000000 ;
     left:0px;
     top:0px;
     width:100vw;			
